@@ -1,5 +1,7 @@
-pour ouvrir .loo https://www.looping-mcd.fr/
+
 ![narodnaNinliotkePirot](narodnaNinliotkePirot.jpg)
+
+pour ouvrir .loo https://www.looping-mcd.fr/
 
 # Gestion_bibliotheque
 Un Brief projet de conception et de mise en place d'une base de données Relationnelle
